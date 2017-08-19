@@ -41,7 +41,8 @@
 body {
 	margin: 0px auto;
 	overflow-x: hidden;
-	background-color: #272822;
+	background-image: url("https://i2.wp.com/wbsimms.com/wp-content/uploads/2016/07/NodeJsBackground.png");
+	/* background-color: #272822; */
 
 
 } 
